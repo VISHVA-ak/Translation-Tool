@@ -1,6 +1,6 @@
 #Translation Tool using
-from customtkinter import *
-from googletrans import Translator
+from customtkinter import * #use pip install customtkinter
+from googletrans import Translator #use pip install googletrans 3.1.0a0 
 
 app = CTk()
 app.geometry("450x600")
